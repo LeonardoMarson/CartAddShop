@@ -10,4 +10,6 @@
 <span>Everton Luiz Zardo,</span>
 <span>GioGasparin.</span>
 
+<p>Obs: A SQL para gerar a base de dados não esta inclusa junto com os arquivos!</p>
+
 </div>
